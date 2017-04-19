@@ -1,4 +1,7 @@
-# test coverage for  [union (v0.4.6)](https://github.com/flatiron/union#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-union.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-union) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-union.svg)](https://travis-ci.org/npmtest/node-npmtest-union)
+# npmtest-union
+
+#### basic test coverage for  [union (v0.4.6)](https://github.com/flatiron/union#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-union.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-union) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-union.svg)](https://travis-ci.org/npmtest/node-npmtest-union)
+
 #### A hybrid buffered / streaming middleware kernel backwards compatible with connect.
 
 [![NPM](https://nodei.co/npm/union.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/union)
